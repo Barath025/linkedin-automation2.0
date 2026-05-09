@@ -1,9 +1,9 @@
-API_KEY                  	: AIzaSyBgQv4EtgZK4E7qnZgSJwZq0Hx8HUmqob4
-USER_ID                  	: barath020305@gmail.com
-PASSWORD                 	: @Barath5156##
-ROLES                    	: java developer fresher
+API_KEY                  	: 
+USER_ID                  	:
+PASSWORD                 	: 
+ROLES                    	:
 INPUT_RESUME_PATH        	: 
 YEARS                    	: 0
 MONTHS                   	: 0
 LINKS                    	: 
-JOB_MODE                 	: Fresher
+JOB_MODE                 	: 
